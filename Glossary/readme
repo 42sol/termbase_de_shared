@@ -1,0 +1,26 @@
+---
+lang: "de"
+file-id: "7b31e468-3d1b-4813-930a-4c25b470bcd6"
+authors: ["felix@42sol.eu"]
+date: "2022-01-06"
+tags: ["#needs_completion"]
+topics: ["#readme"]
+---
+
+# Readme: Glossary (de)
+
+Hier werden die einzelnen Begriffe gesammelt und mit den folgenden Metadaten im Frontmatter gruppiert.
+
+``` 
+---
+...
+---
+```
+- [ ]  TODO: add frontmatter here
+
+
+Innerhalb der Notiz kann die Diskussion und die letztendliche Entscheidung dokumentiert werden.
+
+> **Hinweis:**
+Über das Plugin Dataview können Begriffe dann in vollständigen Listen und Tabellen dargestellt werden.    
+
