@@ -1,14 +1,15 @@
 
 ---
 term:      "ON"
-use:       "Ein"
-choices:   ["Aktiv", "An"]
-avoid:     []
+use:       "EIN"
+choices:   ["ein", "aktiv", "an"]
+avoid:     [6
 reference: 322        
 state:     open
-date:      "2022-01-05"
+date:      "2022-01-06"
 
 ---
 
-## Diskussion
+## Diskussion in Obsidian
+See [[OFF]]
 

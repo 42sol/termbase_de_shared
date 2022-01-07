@@ -1,7 +1,7 @@
 
 ---
 term:      "Obsidian Publish"
-use:       "Obsidian Publish"
+use:       "Obsidian-Publish"
 choices:   []
 avoid:     []
 reference: 10a        

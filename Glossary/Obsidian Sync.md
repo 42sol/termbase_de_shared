@@ -1,7 +1,7 @@
 
 ---
 term:      "Obsidian Sync"
-use:       "Obsidian Sync"
+use:       "Obsidian-Sync"
 choices:   []
 avoid:     []
 reference: 10b        

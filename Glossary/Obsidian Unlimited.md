@@ -1,7 +1,7 @@
 
 ---
 term:      "Obsidian Unlimited"
-use:       "Obsidian Unlimited"
+use:       "Obsidian-Unlimited"
 choices:   []
 avoid:     []
 reference: 10c        
