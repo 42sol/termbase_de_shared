@@ -1,0 +1,9 @@
+[submodule "submodules/obsidian-docs"]
+	path = submodules/obsidian-docs
+	url = git@github.com:42sol-eu/obsidian-docs.git
+[submodule "submodules/obsidian-translation"]
+	path = submodules/obsidian-translation
+	url = git@github.com:42sol-eu/obsidian-translation.git
+[submodule "submodules/obsidian-translations"]
+	path = submodules/obsidian-translations
+	url = git@github.com:42sol-eu/obsidian-translations.git
