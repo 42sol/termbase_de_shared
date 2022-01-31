@@ -22,3 +22,7 @@ Wir haben in den folgenden Artikeln allgemeine Gedanken zu unseren Entscheidunge
 - [[Einführung wie Deutsch muss eine Applikation in 2022 noch sein]]
 	- [[Zentrale Begriffe in Obsidian]]
 - [[Die Herausforderung der ungünstigen Quelle]]
+
+
+## Werkzeuge
+- [Deepl.com](https://www.deepl.com/translator#de/en)
